@@ -16,5 +16,10 @@ namespace AccountingManager
         {
             InitializeComponent();
         }
+
+        private void CustomerCard_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

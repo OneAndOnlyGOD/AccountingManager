@@ -125,8 +125,32 @@
     <Compile Include="VendorList.Designer.cs">
       <DependentUpon>VendorList.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AccountCard.resx">
+      <DependentUpon>AccountCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountList.resx">
+      <DependentUpon>AccountList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashRecipentList.resx">
+      <DependentUpon>CashRecipentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerCard.resx">
+      <DependentUpon>CustomerCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerList.resx">
+      <DependentUpon>CustomerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JournalCard.resx">
+      <DependentUpon>JournalCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JournalList.resx">
+      <DependentUpon>JournalList.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Landingpage.resx">
       <DependentUpon>Landingpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentJournalList.resx">
+      <DependentUpon>PaymentJournalList.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -137,6 +161,18 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="SetupCamt.resx">
+      <DependentUpon>SetupCamt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetupPain.resx">
+      <DependentUpon>SetupPain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorCard.resx">
+      <DependentUpon>VendorCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorList.resx">
+      <DependentUpon>VendorList.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -16,5 +16,15 @@ namespace AccountingManager
         {
             InitializeComponent();
         }
+
+        private void lblOrt_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblIbanBank_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
