@@ -57,12 +57,26 @@
     <Compile Include="AccountList.Designer.cs">
       <DependentUpon>AccountList.cs</DependentUpon>
     </Compile>
+    <Compile Include="Classes\Account.cs" />
+    <Compile Include="Classes\AccountList.cs" />
+    <Compile Include="Classes\Address.cs" />
     <Compile Include="CashRecipentList.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CashRecipentList.Designer.cs">
       <DependentUpon>CashRecipentList.cs</DependentUpon>
     </Compile>
+    <Compile Include="Classes\CamtInterface.cs" />
+    <Compile Include="Classes\CamtSetup.cs" />
+    <Compile Include="Classes\CompanyInformation.cs" />
+    <Compile Include="Classes\Customer.cs" />
+    <Compile Include="Classes\CustomerList.cs" />
+    <Compile Include="Classes\JournalLine.cs" />
+    <Compile Include="Classes\PainInterface.cs" />
+    <Compile Include="Classes\PainSetup.cs" />
+    <Compile Include="Classes\Person.cs" />
+    <Compile Include="Classes\Vendor.cs" />
+    <Compile Include="Classes\VendorList.cs" />
     <Compile Include="CustomerCard.cs">
       <SubType>Form</SubType>
     </Compile>
