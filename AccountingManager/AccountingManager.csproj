@@ -71,7 +71,9 @@
     <Compile Include="Classes\CompanyInformation.cs" />
     <Compile Include="Classes\Customer.cs" />
     <Compile Include="Classes\CustomerList.cs" />
+    <Compile Include="Classes\Journal.cs" />
     <Compile Include="Classes\JournalLine.cs" />
+    <Compile Include="Classes\JournalList.cs" />
     <Compile Include="Classes\PainInterface.cs" />
     <Compile Include="Classes\PainSetup.cs" />
     <Compile Include="Classes\Person.cs" />
